@@ -219,7 +219,7 @@ footer h4 {
   margin-right: 350px;
 }
 
-@media(max-width:1000) {
+@media(max-width:1000px) {
   .creer {
     width:50%
   }
