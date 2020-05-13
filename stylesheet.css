@@ -1,0 +1,220 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+body {
+  margin: 0;
+}
+
+.main {
+  background-image: url(image/main_background.jpg);
+  height:820px;
+  background-size: cover;
+  text-align: center;
+}
+
+.message {
+  padding-top: 350px;
+  font-family: "Bradley Hand"
+}
+
+.message h2 {
+  font-size: 57px;
+  color: white;
+  margin-top: 0px;
+  margin-right:20px ;
+}
+
+.message h1 {
+  font-size: 50px;
+  color: white;
+  margin-bottom: 0px;
+}
+
+span {
+  color: black;
+}
+
+header {
+  background-color:#ACD4F3 ;
+  height: 70px;
+  opacity: 0.7;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+}
+
+.profile {
+  height: 500px;
+  background-color: #FEE5CF ;
+}
+
+.profile_title {
+  margin-top: 0px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.profile h3 {
+  font-family: Copperplate;
+  font-size: 40px;
+}
+
+.description img {
+  width:200px;
+  height:200px;
+  border-radius: 50%;
+  float: left;
+}
+
+.description {
+  padding: 50px 200px;
+}
+
+.description P {
+  padding-left: 300px;
+}
+
+.header_contents a {
+  display: inline-block;
+  float: left;
+  line-height: 70px;
+  margin: 0 170px;
+  background-color:#DBE9FC ;
+  padding:0 40px ;
+}
+
+.header_contents a:hover {
+  cursor: pointer;
+}
+
+.profile_btn:hover {
+  background-color: #FEE5CF;
+}
+
+.career_btn:hover {
+  background-color: #EDEEED;
+}
+
+.dream_btn:hover {
+  background-color: #FEFED7 ;
+}
+
+.career_wrapper {
+  background-color: #EDEEED   ;
+  height: 500px;
+}
+
+.career_title {
+  margin-top: 0px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.career_wrapper h3 {
+  font-family: Copperplate;
+  font-size: 40px;
+}
+
+.name {
+  font-size: 20px;
+  font-family: Verdana;
+}
+
+.name_blow {
+  font-weight: normal;
+  color:#4F4F4D;
+  font-family: Verdana;
+}
+
+.header_contents a {
+  font-family: Copperplate;
+}
+
+.dream {
+  height: 500px;
+  background-color: #FEFED7 ;
+}
+
+.dream_title {
+  margin-top: 0px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.dream h3 {
+  font-family: Copperplate;
+  font-size: 40px;
+}
+
+footer {
+  height: 200px;
+  background-image: url(image/IMG_5633.JPG);
+  text-align: center;
+}
+
+.fa_image {
+  width: 80px;
+  height: 80px;
+  margin-top: 20px;
+}
+
+footer a {
+  display: inline-block;
+  margin: 0 100px;
+}
+
+footer h4 {
+  margin-top: 0px;
+  font-family: "Bradley Hand";
+  font-size: 35px;
+  margin-bottom: 0px;
+  color: white;
+  padding-top: 15px;
+}
+
+.tw_image {
+  width: 80px;
+  height: 80px;
+}
+
+.career img {
+  width: 250px;
+  height: 200px;
+  margin-top: 0px;
+}
+
+.career p {
+  font-family: Verdana;
+}
+
+.career {
+  float: left;
+  width: 25%;
+  text-align: center;
+  padding: 50px 0 0 0px;
+}
+
+.careers {
+  margin: 0 50px;
+}
+
+.dream img {
+  width: 500px;
+  height: 300px;
+  margin-left: 150px;
+  float: left;
+}
+
+.dream_des {
+  float: right;
+  font-family: Verdana;
+  font-size: 20px;
+  line-height: 50px;
+  margin-right: 350px;
+}
