@@ -226,7 +226,8 @@ footer h4 {
 }
 
 @media(max-width:７６７px) {
-  .message {
-    padding-top: 100px;
-  }
+  .description {
+  padding: 50px 50px;
 }
+  }
+
