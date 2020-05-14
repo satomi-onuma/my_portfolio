@@ -219,15 +219,3 @@ footer h4 {
   margin-right: 350px;
 }
 
-@media(max-width:1000px) {
-  .career {
-    width:50%
-  }
-}
-
-@media(max-width:1000px) {
-  .description {
-  padding: 50px 40px 50px 70px;
-}
-  }
-
