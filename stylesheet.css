@@ -224,3 +224,9 @@ footer h4 {
     width:50%
   }
 }
+
+@media(max-width:640px) {
+  .message {
+    padding-top: 100px;
+  }
+}
