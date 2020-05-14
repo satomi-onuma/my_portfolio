@@ -227,7 +227,7 @@ footer h4 {
 
 @media(max-width:1000px) {
   .description {
-  padding: 50px 50px;
+  padding: 50px 40px 50px 70px;
 }
   }
 
