@@ -1,0 +1,23 @@
+@media(max-width:1000px) {
+  .career {
+    width:50%
+  }
+}
+
+@media(max-width:1000px) {
+  .description {
+  padding: 50px 40px 50px 70px;
+}
+  }
+
+@media(max-width:1000px) {
+  .message h1 {
+    font-size: 70px;
+    margin-bottom: 30px;
+  }
+}
+
+@media(max-width:1000px) {
+  .message h2 {
+    font-size: 80px;
+}
