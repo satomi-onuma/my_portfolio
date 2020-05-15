@@ -3,7 +3,7 @@
     color: #FEE5CF;
   }
   .message h2 {
-    font-size: 40px;
+    font-size: 30px;
   }
   .description {
     padding: 30px 50px;
@@ -11,5 +11,8 @@
  .header_contents a {
     margin: 0 20px;
     padding:0 10px ;
+  }
+ .description {
+   padding: 50px 50px;
   }
 }
