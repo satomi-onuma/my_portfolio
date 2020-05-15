@@ -2,29 +2,33 @@
   span {
     color: #FEE5CF;
   }
+  
   .message h2 {
     font-size: 30px;
   }
-  .description {
-    padding: 30px 50px;
-  }
+
  .header_contents a {
     margin: 0 20px;
     padding:0 10px ;
   }
+  
  .description {
    padding: 50px 50px;
   }
+  
   .profile {
    height: 1000px;
   }
+  
   .dream_des {
     margin-right: 30px;
   }
+  
   .description img {
     float: none;
   }
-  .fa_image {
+  
+  .fa_image,tw_image {
     width: 40px;
     height: 40px;
     margin-top: 10px;
@@ -34,9 +38,14 @@
     font-size: 20px;
     text-align:center;
   }
+  
   .dream img {
   width: 300px;
   height: 150px;
   text-align:center;
+  }
+  
+  .description P {
+    text-align: center;
   }
 }
