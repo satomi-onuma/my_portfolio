@@ -10,6 +10,10 @@ body {
   margin: 0;
 }
 
+.clear {
+  clear:left;
+}
+
 .main {
   background-image: url(image/main_background.jpg);
   height:820px;
@@ -106,8 +110,7 @@ header {
 }
 
 .career_wrapper {
-  background-color: #EDEEED   ;
-  height: 500px;
+  background-color: #EDEEED ;
 }
 
 .career_title {
