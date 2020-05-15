@@ -1,5 +1,6 @@
 @media(max-width:670px) {
-  .main {
-    height:400px;
-  }
+ .main img {
+max-width: 100%;
+height: auto;
+ }
 } 
