@@ -21,4 +21,7 @@
   .dream_des {
     margin-right: 30px;
   }
+  .description img {
+    float: none;
+  }
 }
