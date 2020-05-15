@@ -20,6 +20,7 @@ body {
   height:820px;
   background-size: cover;
   text-align: center;
+  width:100%;
 }
 
 .message {
@@ -57,6 +58,7 @@ header {
 .profile {
   height: 500px;
   background-color: #FEE5CF ;
+  width:100%;
 }
 
 .profile_title {
