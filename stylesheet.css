@@ -4,7 +4,7 @@
 
 .container {
   margin: 0 auto;
-  
+  width: 100% ;
 }
 
 body {
@@ -20,7 +20,6 @@ body {
   height:820px;
   background-size: cover;
   text-align: center;
-  width:100%;
 }
 
 .message {
