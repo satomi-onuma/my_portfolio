@@ -1,1 +1,11 @@
-
+@media (max-width: 670px) {
+  .span {
+    color: white;
+  }
+  .message h2 {
+    font-size: 20px;
+  }
+  .description {
+    padding: 30px 50px;
+  }
+}
