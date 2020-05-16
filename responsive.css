@@ -8,7 +8,7 @@
   }
 
  .header_contents a {
-    margin: 0 20px;
+    margin: 0 26px;
     padding:0 10px ;
   }
   
@@ -17,7 +17,7 @@
   }
   
   .profile {
-   height: 700px;
+   height: 750px;
   }
   
   .dream_des {
@@ -27,7 +27,7 @@
   .description img {
     float: none;
     text-align:center;
-    margin-left:25px;
+    margin-left:30px;
   }
   
   .fa_image,tw_image {
@@ -43,9 +43,9 @@
   
   .dream img {
   width: 300px;
-  height: 150px;
+  height: 170px;
   text-align:center;
-  margin-left: 30px;
+  margin-left: 35px;
   }
   
   .description P {
@@ -61,6 +61,7 @@
   
   .career {
     width:100%;
+    padding-top:10px;
   }
   
   footer {
