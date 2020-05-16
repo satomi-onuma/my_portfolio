@@ -13,7 +13,7 @@
   }
   
  .description {
-   padding: 50px 50px;
+   padding: 10px 50px;
   }
   
   .profile {
@@ -27,6 +27,7 @@
   .description img {
     float: none;
     text-align:center;
+    margin-left:25px;
   }
   
   .fa_image,tw_image {
@@ -62,4 +63,7 @@
     width:100%;
   }
   
+  footer {
+    height:150px;
+  }
 }
