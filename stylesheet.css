@@ -161,6 +161,7 @@ header {
 footer {
   height: 200px;
   background-image: url(image/IMG_5633.JPG);
+  text-align: center;
 }
 
 .fa_image {
