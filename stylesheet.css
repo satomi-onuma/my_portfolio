@@ -189,8 +189,9 @@ footer h4 {
 }
 
 .ig_image {
-  width: 20px;
-  height: 20px;
+  width: 80px;
+  height: 80px;
+  margin-top: 20px;
 }
 
 .career img {
