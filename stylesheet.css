@@ -46,9 +46,8 @@ span {
 }
 
 header {
-  background-color:#ACD4F3 ;
-  height: 70px;
-  opacity: 0.1;
+  background-color:rgba(255, 255, 255, 0.8);
+  height: 70px
   position: fixed;
   top: 0;
   z-index: 10;
