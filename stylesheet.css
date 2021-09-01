@@ -61,8 +61,7 @@ header {
 }
 
 .profile_title {
-  margin-top: 0px;
-  text-align: center;
+  margin: 0 100px;
   padding-top: 50px;
   color : #ffffff ;
 }
@@ -74,9 +73,10 @@ header {
 }
 
 .description img {
-  width:300px;
-  height:300px;
+  width:500px;
+  height:500px;
   float: left;
+  margin-top : 0px;
 }
 
 .description {
