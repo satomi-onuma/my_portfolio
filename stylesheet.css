@@ -86,7 +86,7 @@ header {
   padding-left: 300px;
 }
 
-.header_contents a {
+.list-menu a {
   float: right;
   line-height: 70px;
   margin: 0 50px;
@@ -101,7 +101,7 @@ header {
   margin-top : 0px;
 }
 
-.header_contents a:hover {
+.list-menu a:hover {
   cursor: pointer;
 }
 
@@ -143,7 +143,7 @@ header {
   font-family: Verdana;
 }
 
-.header_contents a {
+.list-menu a {
   font-family: Copperplate;
 }
 
