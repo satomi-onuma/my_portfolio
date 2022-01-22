@@ -99,6 +99,7 @@ header {
   float: left;
   padding:20 20px ;
   margin-top : 20px;
+  margin-left: 20px;
 }
 
 .list-menu a:hover {
