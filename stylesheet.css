@@ -46,7 +46,7 @@ span {
 }
 
 header {
-  background-color:rgba(255, 255, 255, 0.1);
+  background-color:rgba(255, 255, 255, 0.7);
   height: 70px ;
   position: fixed;
   top: 0;
@@ -146,7 +146,7 @@ header {
 }
 
 .list-menu a {
-  font-family: Copperplate;
+  font-family: Gravesend Sans;
 }
 
 .dream {
