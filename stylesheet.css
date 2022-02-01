@@ -60,6 +60,12 @@ header {
   width:100%;
 }
 
+.profile img {
+  height: 200px;
+  width:100%;
+  float: left;
+}
+
 .profile_title {
   margin: 0 100px;
   padding-top: 50px;
