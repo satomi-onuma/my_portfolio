@@ -57,7 +57,7 @@ header {
 .main img{
   margin-top : 100px;
   text-align: center;
-  width: 30%;
+  width: 40%;
   height: auto;
 }
 
@@ -65,12 +65,6 @@ header {
   height: 700px;
   background-color: #D5DFE5 ;
   width:100%;
-}
-
-.profile img {
-  height: 200px;
-  border-radius: 50%;
-  float: left;
 }
 
 .profile_title {
@@ -85,7 +79,7 @@ header {
   color : #ffffff ;
 }
 
-.description img {
+.profile img {
   width:30%;
   border-radius: 50%;
   text-align: center;
