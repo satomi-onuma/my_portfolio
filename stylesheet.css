@@ -195,11 +195,7 @@ footer h4 {
   margin-top: 20px;
 }
 
-.career img {
-  width: 250px;
-  height: 200px;
-  margin-top: 0px;
-}
+
 
 .career p {
   font-family: Verdana;
@@ -217,8 +213,8 @@ footer h4 {
 }
 
 .dream img {
-  width: 500px;
-  height: 300px;
+  width:100%;
+  height: auto;
   margin-left: 150px;
   float: left;
 }
