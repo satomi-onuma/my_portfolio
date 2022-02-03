@@ -84,7 +84,7 @@ header {
   width:20%;
   border-radius: 50%;
   text-align: center;
-  margin-top : 100px;
+  margin-top : 80px;
 }
 
 .description {
@@ -100,7 +100,7 @@ header {
   line-height: 70px;
   margin: 0 20px;
   background-color:rgba(255, 255, 255, 0.0) ;
-  padding:0 20px ;
+  padding:0 10px ;
 }
 
 .logo img {
@@ -115,17 +115,6 @@ header {
   cursor: pointer;
 }
 
-.profile_btn:hover {
-  background-color: #FEE5CF;
-}
-
-.career_btn:hover {
-  background-color: #EDEEED;
-}
-
-.dream_btn:hover {
-  background-color: #FEFED7 ;
-}
 
 .name {
   font-size: 20px;
@@ -213,7 +202,7 @@ footer h4 {
 }
 
 .dream img {
-  width:100%;
+  width:30%;
   height: auto;
   margin-left: 150px;
   float: left;
