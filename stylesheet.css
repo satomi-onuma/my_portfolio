@@ -54,6 +54,11 @@ header {
   width: 100%;
 }
 
+.main img{
+  margin-top : 100px;
+  text-align: center;
+  width: 70%;
+}
 
 .profile {
   height: 700px;
