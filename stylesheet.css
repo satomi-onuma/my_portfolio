@@ -147,12 +147,16 @@ header {
   font-size: 30px;
 }
 
-.box {
+.boxcontainer {
   display: flex;
 }
 
 . box img{
   width: 20% ;
+ }
+
+. box1 img {
+ height: 50px; 
  }
 
 footer {
