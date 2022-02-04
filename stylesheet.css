@@ -151,6 +151,10 @@ header {
   display: flex;
 }
 
+. box img{
+  width: 20% ;
+ }
+
 footer {
   height: 200px;
   background-color: #D5DFE5;
