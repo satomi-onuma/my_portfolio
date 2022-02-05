@@ -90,7 +90,6 @@ header {
 
 .description {
   padding: 50px 200px;
-  border:1px solid;
 }
 
 .description P {
@@ -158,6 +157,7 @@ header {
   width: 25%;
   text-align: center;
   padding: 50px 0 0 0px;
+}
 
 . box img {
  height: 50px; 
