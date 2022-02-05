@@ -105,7 +105,7 @@ header {
 }
 
 .logo img {
-  width:25%;
+  width:22%;
   float: left;
   padding:20 20px ;
   margin-top : 20px;
@@ -125,6 +125,7 @@ header {
   font-weight: normal;
   color:#4F4F4D;
   font-family: Verdana;
+  margin: 30px ;
 }
 
 .list-menu a {
