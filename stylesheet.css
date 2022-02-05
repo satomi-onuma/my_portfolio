@@ -153,11 +153,13 @@ header {
   display: flex;
 }
 
-. box img{
-  width: 20% ;
- }
+.box {
+  float: left;
+  width: 25%;
+  text-align: center;
+  padding: 50px 0 0 0px;
 
-. box1 img {
+. box img {
  height: 50px; 
  }
 
