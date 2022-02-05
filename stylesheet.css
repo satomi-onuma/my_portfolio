@@ -89,7 +89,8 @@ header {
 }
 
 .description {
-  padding: 0px 0px;
+  padding: 50px 200px;
+  border:1px solid;
 }
 
 .description P {
