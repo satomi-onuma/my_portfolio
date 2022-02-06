@@ -23,12 +23,6 @@ body {
   height:650px;
 }
 
-.message {
-  margin-right : 100px;
-  padding-top: 350px;
-  font-family: "Bradley Hand"
-}
-
 span {
   color: black;
 }
@@ -65,7 +59,7 @@ header {
 
 .profile h3 {
   font-family: Gravesend Sans;
-  font-size: 30px;
+  font-size: 0px;
   color : #0B2F50 ;
 }
 
@@ -106,7 +100,7 @@ header {
 }
 
 .name {
-  font-size: 20px;
+  font-size: 40px;
   font-family: Verdana;
 }
 
@@ -115,6 +109,7 @@ header {
   color:#4F4F4D;
   font-family: Verdana;
   margin: 30px ;
+  font-size: 30px;
 }
 
 .list-menu a {
@@ -123,7 +118,7 @@ header {
 }
 
 .dream {
-  height: 650px;
+  height: 700px;
   background-color: #FFFFFF ;
 }
 
@@ -140,7 +135,6 @@ header {
 
 .boxcontainer {
   display: block;
-  
 }
 
 .box {
@@ -174,13 +168,5 @@ footer a {
 .tw_image {
   width: 60px;
   height: 60px;
-}
-
-.dream_des {
-  float: right;
-  font-family: Verdana;
-  font-size: 20px;
-  line-height: 50px;
-  margin-right: 350px;
 }
 
