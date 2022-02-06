@@ -71,10 +71,11 @@ header {
 }
 
 .description {
-  margin: 50px 50px 100px 250px ;
+  margin: 0px 50px 100px 250px ;
 }
 
 .description P {
+  width: 50px;
   padding-left: 300px;
   font-size: 30px;
   color : #0B2F50 ;
