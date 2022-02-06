@@ -24,21 +24,9 @@ body {
 }
 
 .message {
+  margin-right : 100px;
   padding-top: 350px;
   font-family: "Bradley Hand"
-}
-
-.message h2 {
-  font-size: 57px;
-  color: white;
-  margin-top: 0px;
-  margin-right:20px ;
-}
-
-.message h1 {
-  font-size: 50px;
-  color: white;
-  margin-bottom: 0px;
 }
 
 span {
