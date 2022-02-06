@@ -95,6 +95,14 @@ header {
   margin-left: 40px;
 }
 
+.logo {
+  display: inline-block;
+}
+
+.list-menu {
+  display: inline-block;
+}
+
 .list-menu a:hover {
   cursor: pointer;
 }
