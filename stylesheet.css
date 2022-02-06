@@ -82,6 +82,8 @@ header {
 
 .description P {
   padding-left: 300px;
+  font-size: 30px;
+  color : #0B2F50 ;
 }
 
 .list-menu a {
