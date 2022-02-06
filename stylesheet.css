@@ -99,10 +99,6 @@ header {
   display: inline-block;
 }
 
-.list-menu {
-  display: inline-block;
-}
-
 .list-menu a:hover {
   cursor: pointer;
 }
