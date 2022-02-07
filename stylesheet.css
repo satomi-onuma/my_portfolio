@@ -93,6 +93,14 @@ header {
   margin-left: 40px;
 }
 
+header img {
+  width:20%;
+  float: left;
+  padding:20 20px ;
+  margin-top : 20px;
+  margin-left: 40px;
+}
+
 .logo {
   display: inline-block;
 }
