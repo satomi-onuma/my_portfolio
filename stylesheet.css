@@ -153,8 +153,8 @@ header img {
   float: left;
   width: 30%;
   text-align: center;
-  padding: 0 0 0 0px;
   display: inline-block;
+  margin-top: 50px;
 }
 
 .box img{
