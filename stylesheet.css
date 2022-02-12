@@ -153,6 +153,10 @@ header img {
   padding-top: 50px;
 }
 
+.box img {
+  width: 50%;
+}
+
 footer {
   height: 200px;
   background-color: #D5DFE5;
