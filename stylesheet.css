@@ -45,23 +45,16 @@ header {
 }
 
 .profile {
-  height: 600px;
+  height: 700px;
   background-color: #D5DFE5 ;
   width:100%;
-}
-
-.profile_title {
-  height: 100px ;
-  margin-top: 0px;
-  text-align: center;
-  padding-top: 50px;
-  color : #2A365D ;
 }
 
 .profile h3 {
   font-family: Gravesend Sans;
   height: 100px;
-  font-size: 0px;
+  text-align: center;
+  font-size: 30px;
   color : #0B2F50 ;
 }
 
