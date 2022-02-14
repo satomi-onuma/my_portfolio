@@ -67,10 +67,10 @@ header {
 }
 
 .description {
-  width : 70% ;
+  width : 60% ;
   display: block;
   margin : auto ;
-  margin-top ; 300px ;
+  padding-top ; 300px ;
 }
 
 .description P {
