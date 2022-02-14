@@ -149,7 +149,8 @@ header img {
   width: 30%;
   display: inline-block;
   padding-top: 50px;
-  float : left; 
+  display:flex;
+　　　　justify-content: center;
 }
 
 .box img {
