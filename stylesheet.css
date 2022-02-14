@@ -148,6 +148,7 @@ header img {
   width: 30%;
   display: inline-block;
   padding-top: 50px;
+  float : left; 
 }
 
 .box img {
