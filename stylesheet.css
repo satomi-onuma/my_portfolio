@@ -147,7 +147,7 @@ header img {
 
 .box {
   width: 32%;
-  padding-top: 200px;
+  padding: 200px 0 0 0;
   float: left;
   display:flex;
   justify-content: center;
