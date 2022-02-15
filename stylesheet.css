@@ -150,6 +150,8 @@ header img {
   display: inline-block;
   padding-top: 300px;
   float: left;
+  display:flex;
+  justify-content: center;
 }
 
 .box img {
