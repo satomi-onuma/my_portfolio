@@ -149,8 +149,9 @@ header img {
   width: 30%;
   display: inline-block;
   padding-top: 50px;
-  display:flex;
-　　　　justify-content: center;
+  float: left;
+  width:300px;
+  margin:0 auto;
 }
 
 .box img {
