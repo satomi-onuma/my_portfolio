@@ -61,7 +61,7 @@ header {
 }
 
 .profile img {
-  width:20%;
+  width:23%;
   border-radius: 50%;
   margin : 0px 50px;
   float : left ;
@@ -143,7 +143,7 @@ header img {
 
 .boxcontainer {
   display: block;
-  
+  width:80% ;
 }
 
 .box {
