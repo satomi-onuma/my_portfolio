@@ -143,6 +143,7 @@ header img {
 
 .boxcontainer {
   display: block;
+  
 }
 
 .box {
@@ -179,6 +180,3 @@ footer a {
   height: 60px;
 }
 
-*{
-  outline: 2px red solid;
-}
