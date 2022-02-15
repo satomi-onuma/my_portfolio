@@ -68,7 +68,7 @@ header {
 }
 
 .description {
-  width : 58% ;
+  width : 57% ;
   display: block;
   margin : auto ;
   padding-top ; 300px ;
@@ -148,7 +148,7 @@ header img {
 .box {
   width: 30%;
   display: inline-block;
-  padding-top: 50px;
+  padding-top: 100px;
   float: left;
   width:300px;
   margin:0 auto;
