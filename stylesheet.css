@@ -146,11 +146,10 @@ header img {
 }
 
 .box {
-  width: 30%;
+  width: 35%;
   display: inline-block;
   padding-top: 100px;
   float: left;
-  width:300px;
   margin:0 auto;
 }
 
