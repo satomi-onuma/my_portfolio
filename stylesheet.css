@@ -149,7 +149,7 @@ header img {
   width: 32%;
   padding: 200px 0 0 0;
   float: left;
-  display:flex;
+  display:block;
   justify-content: center;
 }
 
