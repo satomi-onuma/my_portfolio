@@ -147,10 +147,10 @@ header img {
 
 .box {
   width: 32%;
-  padding: 200px 0 0 0;
+  padding: 150px 0 0 0;
   float: left;
   display:block;
-  justify-content: center;
+  text-align: center;
 }
 
 .box img {
