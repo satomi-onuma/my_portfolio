@@ -135,8 +135,7 @@ header img {
 }
 
 .boxcontainer {
-  display: block;
-  width:80% ;
+  margin:0 100px ;
 }
 
 .box {
