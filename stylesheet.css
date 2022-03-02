@@ -135,7 +135,10 @@ header img {
 }
 
 .boxcontainer {
-  margin:0 80px ;
+  margin-top: 0 ;
+  margin-right: auto ;
+  margin-bottom: 0 ;
+  margin-left : auto ;
 }
 
 .box {
@@ -152,7 +155,7 @@ header img {
 
 footer {
   height: 200px;
-  background-color: #1c2175;
+  background-color: #394c9e;
   text-align: center;
 }
 
