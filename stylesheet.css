@@ -135,10 +135,8 @@ header img {
 }
 
 .boxcontainer {
-  margin-top: 0 ;
-  margin-right: auto ;
-  margin-bottom: 0 ;
-  margin-left : auto ;
+  width : 57% ;
+  margin: 0 auto ;
 }
 
 .box {
