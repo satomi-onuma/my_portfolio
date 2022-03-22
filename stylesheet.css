@@ -15,7 +15,7 @@ body {
   clear:left;
 }
 
-.main {
+main {
   background-color:rgba(255, 255, 255, 0.0);
   background-size: cover;
   text-align: center;
@@ -38,7 +38,7 @@ header {
   box-shadow : 0 3px 6px rgba(0,0,0,0.05);
 }
 
-.main img{
+main img{
   margin-top : 180px;
   text-align: center;
   width: 55%;
