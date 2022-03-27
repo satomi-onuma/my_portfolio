@@ -16,7 +16,7 @@ body {
 }
 
 main {
-  background-color:rgba(255, 255, 255, 0.0);
+  background-color:#eff7fc;
   background-size: cover;
   text-align: center;
   width:100%;
@@ -47,7 +47,7 @@ main img{
 
 .profile {
   height: 700px;
-  background-color: #eff7fc ;
+  background-color: #ffffff ;
   width:100%;
 }
 
@@ -121,7 +121,7 @@ header img {
 
 .dream {
   height: 700px;
-  background-color: #FFFFFF ;
+  background-color: #eff7fc ;
 }
 
 .dream_title {
@@ -153,7 +153,7 @@ header img {
 
 footer {
   height: 200px;
-  background-color: #eff7fc;
+  background-color: #ffffff;
   text-align: center;
 }
 
