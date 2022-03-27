@@ -142,6 +142,13 @@ header img {
 .boxContainer {
   width : 57% ;
   margin: 0 auto ;
+  grid-column: 2;
+  grid-row: 2 ;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
 }
 
 .box img {
