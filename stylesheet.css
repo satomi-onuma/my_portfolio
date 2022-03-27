@@ -120,13 +120,18 @@ header img {
 }
 
 .dream {
-  height: 700px;
+  height: 700px ;
   background-color: #eff7fc ;
+  display: grid ;
+  grid-template-columns: 495px 326px 326px 1fr;
+  grid-template-rows: 322px 341px 225px;
 }
 
 .dream_title {
   text-align: center;
   padding-top: 50px;
+  grid-column: 1 / 5;
+  grid-row: 1 ;
 }
 
 .dream h3 {
