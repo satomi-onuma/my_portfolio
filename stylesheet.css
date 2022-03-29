@@ -154,8 +154,14 @@ header img {
 }
 
 .img-description {
-  grid-column: 2　;
-  grid-row: 3 ;
+    grid-row: 3 ;
+    grid-column: 2;
+}
+
+.img-description p {
+    float: left;
+    width: 200px;
+    justify-content: space-between;
 }
 
 footer {
