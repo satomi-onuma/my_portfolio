@@ -128,7 +128,7 @@ header img {
 }
 
 .works_title {
-  grid-column: 1 / 4　;
+  grid-column: 1 / 4 ;
   grid-row: 1 ;
 }
 
@@ -138,7 +138,7 @@ header img {
 }
   
 .boxContainer {
-  grid-column: 2　;
+  grid-column: 2 ;
   grid-row: 2 ;
 }
 
