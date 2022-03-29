@@ -128,8 +128,10 @@ header img {
 }
 
 .works_title {
-  grid-column: 1 / 4 ;
-  grid-row: 1 ;
+    grid-row: 1 ;
+    grid-column: 1/4;
+    margin: 0 auto ;
+    margin-top: 50px ;
 }
 
 .works h3 {
