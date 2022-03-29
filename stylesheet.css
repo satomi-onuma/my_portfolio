@@ -128,9 +128,9 @@ header img {
 }
 
 .dream_title {
-  text-align: center;
-  padding-top: 50px;
-  grid-column: 1 / 4;
+  text-align: center　;
+  padding-top: 50px　;
+  grid-column: 1 / 4　;
   grid-row: 1 ;
 }
 
@@ -142,10 +142,8 @@ header img {
 .boxContainer {
   width : 57% ;
   margin : 0 auto ;
-  grid-column : 2;
-  grid-row : 2 ;
   display :flex ;
-  justify-content: space-between;
+  justify-content: space-between　;
 }
 
 .box img {
