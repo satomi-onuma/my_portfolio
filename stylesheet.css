@@ -81,9 +81,11 @@ main img{
 
 .list-menu a {
   float: right;
-  margin: 0 20px;
   background-color:rgba(255, 255, 255, 0.0) ;
-  padding:0 20px ;
+  margin-right: 40px;
+  justify-content: space-between;
+  font-family: Gravesend Sans;
+  font-size: 15px;
 }
 
 header img {
@@ -112,11 +114,6 @@ header img {
   color:#4F4F4D;
   font-family: Verdana;
   font-size: 18px;
-}
-
-.list-menu a {
-  font-family: Gravesend Sans;
-  font-size: 15px;
 }
 
 .works {
@@ -151,7 +148,7 @@ header img {
 }
 
 .box img {
-  width: 230px ;
+  height: 230px ;
 }
 
 .img-description {
