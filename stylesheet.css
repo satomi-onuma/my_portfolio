@@ -128,7 +128,7 @@ header img {
 }
 
 .works_title {
-  text-align: center　;
+  margin: 0 auto　;
   padding-top: 50px　;
   grid-column: 1 / 4　;
   grid-row: 1 ;
