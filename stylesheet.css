@@ -147,10 +147,11 @@ header img {
 .box {
   display :flex ;
   justify-content: space-between　;
+  gap : 30px ;
 }
 
 .box img {
-  height: 250px ;
+  height: 230px ;
 }
 
 .img-description {
