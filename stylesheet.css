@@ -150,6 +150,11 @@ header img {
   width: 60%;
 }
 
+.img-description {
+  grid-column: 2　;
+  grid-row: 3 ;
+}
+
 footer {
   height: 200px;
   background-color: #0b2f4f;
