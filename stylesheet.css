@@ -124,7 +124,7 @@ header img {
   background-color: #eff7fc ;
   display: grid ;
   grid-template-columns: 1fr 2fr 1fr;
-  grid-template-rows: 1fr 1.7fr;
+  grid-template-rows: 1fr 1.7fr 1fr;
 }
 
 .dream_title {
