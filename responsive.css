@@ -94,6 +94,13 @@ main img{
   height: 667px;
 }
 
+.pc { 
+  display: none ;
+}
+.sp { 
+  display: block ; 
+}    
+    
 .profile {
   height: 675px;
   background-color: #ffffff ;
