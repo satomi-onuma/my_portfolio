@@ -23,6 +23,13 @@ main {
   height:800px;
 }
 
+.pc { 
+  display: block ;
+}
+.sp { 
+  display: none ; 
+}
+
 span {
   color: black;
 }
