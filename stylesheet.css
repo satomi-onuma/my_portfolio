@@ -45,7 +45,7 @@ header {
   box-shadow : 0 3px 6px rgba(0,0,0,0.05);
 }
 
-main img{
+.pc{
   margin-top : 180px;
   text-align: center;
   width: 55%;
