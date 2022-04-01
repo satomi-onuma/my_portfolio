@@ -48,7 +48,8 @@ header {
 .pc{
   margin-top : 180px;
   width: 55%;
-  
+  margin-right:auto;
+  margin-left:auto
   height: auto;
 }
 
