@@ -45,13 +45,10 @@ header {
   box-shadow : 0 3px 6px rgba(0,0,0,0.05);
 }
 
-main img {
-    text-align:center;
-}
-
 .pc{
-  margin-top : 0 auto;
+  margin-top : 180px;
   width: 55%;
+  
   height: auto;
 }
 
