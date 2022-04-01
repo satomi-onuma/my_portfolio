@@ -46,8 +46,8 @@ header {
 }
 
 .pc{
-  margin-top : 180px;
-  text-align: center;
+  margin-top : 180px auto;
+  text-align:center;
   width: 55%;
   height: auto;
 }
