@@ -95,6 +95,10 @@ header {
   display: flex;
 }
 
+.list-menu {
+  display: none;
+    }
+
 .profile {
   background-color: #ffffff ;
   grid-row: 3;
