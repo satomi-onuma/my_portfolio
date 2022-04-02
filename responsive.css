@@ -89,6 +89,10 @@ header {
   width: 375px;
 }
 
+.list-menu {
+  display:none;
+    }
+
 main img{
   margin: 0 auto;
   height: 667px;
