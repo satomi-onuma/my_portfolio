@@ -74,6 +74,14 @@ main {
   grid-row: 2;
 }
 
+.pc {
+  display :none;
+    }
+    
+.sp {
+  display :block;
+    }    
+    
 span {
   color: black;
 }
