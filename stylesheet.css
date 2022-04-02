@@ -45,6 +45,10 @@ header {
   box-shadow : 0 3px 6px rgba(0,0,0,0.05);
 }
 
+.hamburger {
+  display:none;
+}
+
 .pc{
   margin-top : 180px;
   width: 55%;
