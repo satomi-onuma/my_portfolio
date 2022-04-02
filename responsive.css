@@ -97,6 +97,7 @@ main img{
 .pc { 
   display: none ;
 }
+    
 .sp { 
   display: block ; 
 }    
@@ -124,7 +125,6 @@ main img{
 }
 
 .description {
-  width : 57% ;
   display: block;
   margin : auto ;
   padding-top : 40px ;
@@ -142,7 +142,7 @@ main img{
 .logo {
   width:170px;
   height: 21px;
-  margin-top : 29px;
+  margin-top : 20px;
 }
 
 .hamburger :hover {
