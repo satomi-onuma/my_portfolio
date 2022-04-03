@@ -92,10 +92,13 @@ main {
 .boxContainer {
   width:375px;
   }
+
+.box {
+    display:block;
+  }
   
 .box img {
   height:150px;
-  display:block;
 }
 
 .img-description p {
