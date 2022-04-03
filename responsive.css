@@ -30,6 +30,7 @@ main {
   display:block;
   height:30px;
   margin : 20px 0px;
+  float:right;
 }
     
 .profile {
@@ -58,6 +59,7 @@ main {
   width:170px;
   height: 21px;
   margin-top : 29px;
+  margin-left:0 ;
 }
 
 .hamburger :hover {
@@ -88,6 +90,10 @@ main {
   padding-top: 50px;
 }
 
+.box {
+  width:375px;
+  }
+  
 .box img {
   height:150px;
 }
