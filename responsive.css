@@ -3,7 +3,7 @@
 .container {
   display: grid;
   grid-template-columns:1fr;
-  grid-template-rows:667px 675px 800px 100px; 
+  grid-template-rows:667px 675px 800px 70px; 
   width:375px;
 }
 
@@ -45,13 +45,13 @@ main {
 
 .profile h3 {
   padding-top: 50px;
-  padding-bottom: 10px ;
+  padding-bottom: 50px ;
   margin:0 auto;
   font-size: 30px;
 }
 
 .profile img {
-  width:70%;
+  width:80%;
   margin : 0 auto;
 }
 
