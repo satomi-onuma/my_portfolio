@@ -94,6 +94,7 @@ main {
   
 .box img {
   height:150px;
+  display:block;
 }
 
 .img-description p {
@@ -102,7 +103,6 @@ main {
 }
 
 footer {
-  height: 100px;
   grid-row: 4;
   text-align: center;
   width:375px;
