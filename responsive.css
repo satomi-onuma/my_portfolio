@@ -23,6 +23,7 @@ main {
 .sp {
   display :block;
   margin: 0 auto;
+  padding-top:0;
     }    
     
 .list-menu {
