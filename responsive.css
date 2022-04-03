@@ -54,19 +54,10 @@
 }
 
   @media (max-width: 375px) {
-* {
-  box-sizing: border-box;
-}
-
 .container {
-  width:375px;
   display: grid;
   grid-template-columns:1fr;
   grid-template-rows:667px 675px 800px 100px; 
-}
-
-.clear {
-  clear:left;
 }
 
 main {
@@ -81,25 +72,16 @@ main {
   display :block;
     }    
     
-span {
-  color: black;
-}
-
-header {
-  background-color:rgba(255, 255, 255, 0.0);
-  position: fixed;
-  top: 0;
-  z-index: 10;
-  box-shadow : 0 3px 6px rgba(0,0,0,0.05);
-  display: flex;
-}
-
 .list-menu {
   display: none;
     }
-
+    
+.hamburger {
+  height:30px;
+  margin : 20px 0px;
+}
+    
 .profile {
-  background-color: #ffffff ;
   grid-row: 2;
   text-align: center;
 }
@@ -108,28 +90,16 @@ header {
   padding-top: 50px;
   padding-bottom: 10px ;
   margin:0 auto;
-  font-family: Gravesend Sans;
   font-size: 30px;
-  color : #0B2F50 ;
 }
 
 .profile img {
   width:70%;
-  border-radius: 50%;
   margin : 0 auto;
 }
 
 .description {
   padding-top : 40px ;
-}
-
-.description P {
-  color : #0B2F50 ;
-}
-
-.hamburger {
-  height:30px;
-  margin : 20px 0px;
 }
 
 .logo {
@@ -143,21 +113,16 @@ header {
 }
 
 .name {
-  font-family: Futura;
   font-size: 30px;
 }
 
 .name_blow {
-  font-weight: normal;
-  color:#4F4F4D;
-  font-family: Verdana;
   font-size:12px;
   margin: 0 30px;
 }
 
 .works {
   grid-row: 3;
-  background-color: #eff7fc ;
 }
 
 .works_title {
@@ -166,14 +131,8 @@ header {
 }
 
 .works h3 {
-  font-family: Gravesend Sans;
   font-size: 30px;
   padding-top: 50px;
-}
-
-.box {
-  gap : 30px ;
-  text-align: center;
 }
 
 .box img {
@@ -181,8 +140,6 @@ header {
 }
 
 .img-description p {
-    justify-content: space-between;
-    color : #0B2F50 ;
     font-size: 15px;
     text-align: center;
 }
@@ -190,7 +147,6 @@ header {
 footer {
   height: 100px;
   grid-row: 4;
-  background-color: #0b2f4f;
   text-align: center;
 }
 
