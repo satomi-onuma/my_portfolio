@@ -26,6 +26,7 @@ main {
 .pc { 
   display: block ;
 }
+
 .sp { 
   display: none ; 
 }
@@ -42,6 +43,35 @@ header {
   z-index: 10;
   width: 100%;
   box-shadow : 0 3px 6px rgba(0,0,0,0.05);
+}
+
+.list-menu a {
+  float: right;
+  background-color:rgba(255, 255, 255, 0.0) ;
+  margin-right: 40px;
+  justify-content: space-between;
+  font-family: gravesend-sans, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 15px;
+  color: inherit;
+  text-decoration: none;
+}
+
+header img {
+  width:15%;
+  float: left;
+  padding:20 20px ;
+  margin-top : 20px;
+  margin-left: 30px;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.list-menu a:hover {
+  cursor: pointer;
 }
 
 .hamburger {
@@ -98,35 +128,6 @@ header {
   display: block;
   margin : auto ;
   padding-top : 40px ;
-}
-
-.list-menu a {
-  float: right;
-  background-color:rgba(255, 255, 255, 0.0) ;
-  margin-right: 40px;
-  justify-content: space-between;
-  font-family: gravesend-sans, sans-serif;
-  font-style: normal;
-  font-weight: 100;
-  font-size: 15px;
-  color: inherit;
-  text-decoration: none;
-}
-
-header img {
-  width:15%;
-  float: left;
-  padding:20 20px ;
-  margin-top : 20px;
-  margin-left: 30px;
-}
-
-.logo {
-  display: inline-block;
-}
-
-.list-menu a:hover {
-  cursor: pointer;
 }
 
 .name {
