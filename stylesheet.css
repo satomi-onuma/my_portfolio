@@ -67,7 +67,7 @@ header img {
 }
 
 .logo {
-  display: inline-block;
+  display: block;
 }
 
 .list-menu a:hover {
