@@ -16,7 +16,7 @@ body {
 }
 
 main {
-  background-color:#eff7fc;
+  background-color:#ffffff;
   background-size: cover;
   text-align: center;
   width:100%;
@@ -101,7 +101,7 @@ header img {
 
 .profile {
   height: 700px;
-  background-color: #ffffff ;
+  background-color: #eff7fc ;
   width:100%;
 }
 
@@ -149,7 +149,7 @@ header img {
 
 .works {
   height: 700px ;
-  background-color: #eff7fc ;
+  background-color: #ffffff ;
   display: grid ;
   grid-template-columns: 1fr 2fr 1fr;
   grid-template-rows: 1fr 1.7fr 1fr;
