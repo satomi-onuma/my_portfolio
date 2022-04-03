@@ -4,6 +4,7 @@
   display: grid;
   grid-template-columns:1fr;
   grid-template-rows:667px 675px 800px 100px; 
+  width:375px;
 }
 
 header {
