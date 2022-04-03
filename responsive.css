@@ -8,6 +8,7 @@
 
 header {
   width:375px;
+  display:flex;
   }
   
 main {
@@ -60,10 +61,6 @@ main {
   height: 21px;
   margin-top : 29px;
   margin-left:0 ;
-}
-
-.hamburger :hover {
-  cursor: grab;
 }
 
 .name {
