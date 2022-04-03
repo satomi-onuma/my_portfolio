@@ -12,6 +12,26 @@ header {
   display:flex;
   }
   
+.list-menu {
+  display: none;
+  }
+
+.logo {
+  display:block;
+  width:170px;
+  height:21px;
+  padding-top:25px;
+  margin-left:20px ;
+  float:left;
+}  
+  
+.hamburger {
+  display:block;
+  height:30px;
+  margin : 20px 30px;
+  float:right;
+}  
+  
 main {
   grid-row: 1;
 }
@@ -24,17 +44,6 @@ main {
   display :block;
   margin: 0 auto;
     }    
-    
-.list-menu {
-  display: none;
-    }
-    
-.hamburger {
-  display:block;
-  height:30px;
-  margin : 20px 30px;
-  float:right;
-}
     
 .profile {
   grid-row: 2;
@@ -57,14 +66,6 @@ main {
 .description {
   padding-top : 40px ;
   width:100%;
-}
-
-.logo {
-  width:170px;
-  height: 21px;
-  padding-top : 25px;
-  margin-left:20px ;
-  float:left;
 }
 
 .name {
