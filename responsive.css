@@ -6,6 +6,10 @@
   grid-template-rows:667px 675px 800px 100px; 
 }
 
+header {
+  width:375px;
+  }
+  
 main {
   grid-row: 1;
 }
