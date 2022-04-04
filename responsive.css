@@ -33,6 +33,7 @@ header {
   
 main {
   grid-row: 1;
+  margin-top:0;
 }
 
 .pc {
