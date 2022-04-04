@@ -3,7 +3,7 @@
 .container {
   display: grid;
   grid-template-columns:1fr;
-  grid-template-rows:667px 675px 800px 170px; 
+  grid-template-rows:667px 700px 800px 170px; 
   width:375px;
 }
 
@@ -100,15 +100,15 @@ main {
 
 .box {
     display:block;
+    gap:50px;
   }
   
 .box img {
   height:150px;
 }
 
-.img-description p {
-    font-size: 15px;
-    text-align: center;
+.img-description {
+    display:none;
 }
 
 footer {
