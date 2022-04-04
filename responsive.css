@@ -36,8 +36,12 @@ header {
   
 main {
   grid-row: 1;
-  margin-top:0;
 }
+
+main img {
+  margin-top:0;
+  vertical-align: bottom;
+  }
 
 .pc {
   display :none;
@@ -108,7 +112,7 @@ main {
   
 .box img {
   height:200px;
-  padding-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .img-description {
