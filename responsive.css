@@ -22,10 +22,9 @@ header {
   }
 
 .logo {
-  display:block;
-  width:170px;
+  width: 30%;
+  height: 21px;
   height:21px;
-  padding-top:25px;
   margin-left:20px;
 }  
   
