@@ -42,6 +42,7 @@ main img {
   margin-top:0;
   vertical-align: bottom;
   line-height: 1.0em;
+  display:grid;
   }
 
 .pc {
