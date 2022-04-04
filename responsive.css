@@ -1,6 +1,14 @@
 
 @media (max-width: 375px) {
 
+.container {
+  margin: 0 auto;
+  width: 375px ;
+  display: grid;
+  grid-template-columns:1fr; 
+  grid-template-rows:667px 700px 800px 100px;
+}
+  
 header {
   width:375px;
   }
