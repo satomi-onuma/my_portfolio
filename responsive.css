@@ -20,6 +20,7 @@ header {
   }
 
 .logo {
+  display:block;
   width:170px;
   height:21px;
   padding-top:25px;
