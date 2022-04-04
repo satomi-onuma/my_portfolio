@@ -3,7 +3,7 @@
 .container {
   display: grid;
   grid-template-columns:1fr;
-  grid-template-rows:667px 675px 800px 70px; 
+  grid-template-rows:667px 675px 800px 170px; 
   width:375px;
 }
 
