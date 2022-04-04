@@ -58,15 +58,11 @@ header {
   text-decoration: none;
 }
 
-header img {
+.logo {
   width:15%;
   float: left;
-  padding:20 20px ;
   margin-top : 20px;
   margin-left: 30px;
-}
-
-.logo {
   display: block;
 }
 
