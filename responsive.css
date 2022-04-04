@@ -1,7 +1,7 @@
 
 @media (max-width: 375px) {
 .container {
-  display: grid;
+  display:grid;
   grid-template-columns:1fr;
   grid-template-rows:667px 700px 800px 170px; 
   width:375px;
@@ -9,18 +9,17 @@
 
 header {
   width:375px;
-  display:flex;
   }
   
 .list-menu {
-  display: none;
+  display:none;
   }
 
 .logo {
   width:170px;
   height:21px;
   padding-top:25px;
-  margin-left:20px ;
+  margin-left:20px;
 }  
   
 .hamburger {
