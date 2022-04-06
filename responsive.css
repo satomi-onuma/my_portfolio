@@ -6,7 +6,7 @@
   width: 375px ;
   display: grid;
   grid-template-columns:1fr; 
-  grid-template-rows:667px 700px 800px 100px;
+  grid-template-rows:667px 700px 900px 100px;
 }
   
 header {
