@@ -82,7 +82,7 @@ header {
   height: auto;
 }
  
-.pc.fadein.is-animated {
+.pc {
   animation: fadeIn 0.7s cubic-bezier(0.33, 1, 0.68, 1) 1 forwards;
 }
  
@@ -178,6 +178,8 @@ header {
 
 .box img {
   height: 230px ;
+  visibility: visible;
+  animation-name: fadeInUp;
 }
 
 .mensduo {
