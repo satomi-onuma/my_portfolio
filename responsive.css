@@ -125,7 +125,6 @@ main img {
 
 footer {
   grid-row:4;
-  height:100px;
   text-align:center;
   width:375px;
 }
