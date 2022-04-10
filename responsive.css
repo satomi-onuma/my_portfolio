@@ -6,11 +6,12 @@
   width: 375px ;
   display: grid;
   grid-template-columns:1fr; 
-  grid-template-rows:667px 700px 900px 100px;
+  grid-template-rows:70px 667px 700px 900px 100px;
 }
   
 header {
   width:375px;
+  grid-row: 1;
   }
   
 .header-contents{
@@ -36,7 +37,7 @@ header {
 }  
   
 main {
-  grid-row: 1;
+  grid-row: 2;
   line-height: 0;
 }
 
@@ -57,7 +58,7 @@ main img {
     }    
     
 .profile {
-  grid-row: 2;
+  grid-row: 3;
   text-align: center;
   width:375px;
 }
@@ -90,7 +91,7 @@ main img {
 }
 
 .works {
-  grid-row: 3;
+  grid-row: 4;
   width:375px;
 }
 
@@ -124,7 +125,7 @@ main img {
 }
 
 footer {
-  grid-row:4;
+  grid-row:5;
   text-align:center;
   width:375px;
 }
