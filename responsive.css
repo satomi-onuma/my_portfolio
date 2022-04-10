@@ -22,10 +22,10 @@ header {
   }
 
 .logo {
-  display:block;
   width: 140px;
   height:21px;
   margin-left:20px;
+  float:left;
 }  
   
 .hamburger {
