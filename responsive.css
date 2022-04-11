@@ -1,5 +1,5 @@
 
-@media (max-width: 675px) {
+@media (max-width: 600px) {
 
 .container {
   margin: 0 auto;
@@ -126,6 +126,7 @@ main img {
 }
 
 footer {
+  height:100px;
   grid-row:4;
   text-align:center;
   width:375px;
