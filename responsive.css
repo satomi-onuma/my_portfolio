@@ -11,9 +11,7 @@
   
 header {
   width:375px;
-  display:grid;
-  grid-template-columns:3fr 1fr; 
-  grid-template-rows:1fr;
+  display:flex;
   }
   
 .list-menu {
@@ -21,7 +19,6 @@ header {
   }
 
 .logo {
-  grid-column:1;
   width: 140px;
   height:21px;
   margin-left:20px;
@@ -30,7 +27,6 @@ header {
 }  
   
 .hamburger {
-  grid-column:2;
   display:block;
   height:30px;
   margin : 20px 30px;
