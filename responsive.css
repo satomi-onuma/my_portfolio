@@ -22,7 +22,8 @@ header {
   width: 40%;
   margin-left:20px;
   float:left;
-  padding-top:30px;
+  padding-top:10px;
+  display:flex;
 }  
   
 .hamburger {
