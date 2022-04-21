@@ -3,7 +3,7 @@
 
 .container {
   margin: 0 auto;
-  width: 375px ;
+  width: 100% ;
   display: grid;
   grid-template-columns:1fr; 
   grid-template-rows:667px 700px 900px 100px;
@@ -11,7 +11,7 @@
   
 header {
   display:flex;
-  width: 375px;
+  width: 100%;
   }
   
 .list-menu {
@@ -19,8 +19,7 @@ header {
   }
 
 .logo {
-  width: 140px;
-  height:21px;
+  width: 40%;
   margin-left:20px;
   float:left;
   padding-top:30px;
@@ -57,7 +56,7 @@ main img {
 .profile {
   grid-row: 2;
   text-align: center;
-  width:375px;
+  width:100%;
 }
 
 .profile h3 {
