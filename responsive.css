@@ -7,12 +7,9 @@
   grid-template-rows:667px 700px 900px 100px;
 }
   
-header {
-  align-items: center;
-  }
-  
 .logo {
-  width: 40% ;
+  width: 50% ;
+  padding-top : 30px ;
   }
   
 .list-menu {
@@ -21,8 +18,9 @@ header {
   
 .hamburger {
   display:block;
-  height:30px;
+  height:25px;
   float:right;
+  padding-right:30px;
 }  
   
 main {
