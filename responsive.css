@@ -8,8 +8,11 @@
 }
   
 header {
-  display:flex;
   align-items: center;
+  }
+  
+.logo {
+  width: 40% ;
   }
   
 .list-menu {
@@ -19,7 +22,6 @@ header {
 .hamburger {
   display:block;
   height:30px;
-  margin : 20px 30px;
   float:right;
 }  
   
