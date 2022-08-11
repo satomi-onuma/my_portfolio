@@ -59,6 +59,7 @@ header {
 
 .list-menu {
   grid-column:2;
+  justify-content: center;
 }
 
 .list-menu a {
