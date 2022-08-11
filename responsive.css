@@ -28,8 +28,8 @@ header {
   
 .hamburger_menu img {
   height:25px;
-  padding-left:100px;
-  justify-content: center;
+  padding-left:110px;
+  inline-height:25px;
 }  
   
 main {
