@@ -44,11 +44,10 @@ header {
   width: 100%;
   box-shadow : 0 3px 6px rgba(0,0,0,0.05);
   display:flex;
-  text-align:center;
 }
 
 .list-menu a {
-  margin ; 0 0 0 auto;
+  float: right;
   background-color:rgba(255, 255, 255, 0.0) ;
   margin-right: 40px;
   justify-content: space-between;
