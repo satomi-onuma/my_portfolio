@@ -22,7 +22,8 @@ header {
   display:none;
   }
   
-.hamburger {
+.hamburger_menu {
+  margin:0 0 0 auto;
   display:block;
   height:25px;
   padding-right:30px;
