@@ -27,9 +27,9 @@ header {
   }
   
 .hamburger_menu img {
-  margin:0 0 0 auto;
   height:25px;
-  padding-right:30px;
+  text-align:center;
+  padding-left:70px;
 }  
   
 main {
