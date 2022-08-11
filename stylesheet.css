@@ -45,6 +45,7 @@ header {
   box-shadow : 0 3px 6px rgba(0,0,0,0.05);
   display:grid;
   grid-template-columns:3fr 1fr 0;
+  grid-template-rows:1fr;
 }
 
 .header-logo {
