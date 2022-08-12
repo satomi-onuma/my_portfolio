@@ -24,13 +24,11 @@ header {
   
 .hamburger_menu {
   display:block;
-  }
-  
-.hamburger_menu img {
-  height:25px;
+  height:70px;
   padding-left:110px;
   margin-top:25px;
-}  
+  background-image: ;
+  }
   
 main {
   grid-row: 1;
