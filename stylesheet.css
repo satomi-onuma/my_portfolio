@@ -50,6 +50,7 @@ header {
 
 .header-logo {
   grid-column:1;
+  grid-row:1;
 }
 
 .header-logo img {
@@ -60,6 +61,7 @@ header {
 
 .list-menu {
   grid-column:2;
+  grid-row:1;
   justify-content: center;
 }
 
