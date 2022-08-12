@@ -9,11 +9,11 @@
  
 header {
    display: grid;
-   grid-template-columns: 3fr 1fr;
+   grid-template-columns: 2fr 1fr;
   }
   
 .header-logo img{
-  width: 90% ;
+  height: 25px ;
   padding-top : 28px ;
   margin-left : 28px ;
   }
@@ -26,7 +26,6 @@ header {
   display:block;
   height:70px;
   padding-left:110px;
-  margin-top:25px;
   background-image:url(image/burger.svg);
   }
   
