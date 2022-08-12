@@ -62,7 +62,7 @@ header {
 .list-menu {
   grid-column:2;
   grid-row:1;
-  justify-content: center;
+  text-align: center;
 }
 
 .list-menu a {
