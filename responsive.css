@@ -27,7 +27,11 @@ header {
   height:70px;
   padding-left:110px;
   margin-top:25px;
-  background-image: ;
+  background-image:url(image/hamburger.png);
+  }
+  
+.hamburger_menu:hover {
+  background-color: #ccc;
   }
   
 main {
