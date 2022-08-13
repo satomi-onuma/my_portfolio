@@ -12,6 +12,10 @@ header {
    align-items: center;
   }
 
+.header-logo {
+  display:flex;
+  }
+
 .header-logo img{
   height: 25px ;
   padding-top : 28px ;
