@@ -26,6 +26,7 @@ header {
   
 .hamburger_menu {
   grid-column: 2 / 3;
+  
   width:50px;
   background-image:url(image/burger.svg);
   background-position: center;
