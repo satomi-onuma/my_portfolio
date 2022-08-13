@@ -8,12 +8,11 @@
 }
  
 header {
-   display: flex;
-   align-items: center;
+   grid-template-columns: 250px 1fr;
   }
 
 .header-logo {
-  display:flex;
+  grid-column: 1 / 2;
   }
 
 .header-logo img{
@@ -27,10 +26,10 @@ header {
   }
   
 .hamburger_menu {
-  display:flex;
-  height:70px;
-  padding-left:110px;
+  grid-column: 2 / 3;
+  width:50px;
   background-image:url(image/burger.svg);
+  background-position: center;
   }
   
 .hamburger_menu:hover {
