@@ -18,7 +18,7 @@ header {
 .header-logo img{
   width: 70% ;
   margin-left : 28px ;
-  margin-top:25px;
+  padding-top:25px;
   }
   
 .list-menu {
