@@ -30,7 +30,7 @@ header {
   grid-row: 1 / 2;
   width:70px;
   height:70px;
-  margin: 0 0 0 52px;
+  margin: 0 0 0 53px;
   background-image:url(image/burger.svg);
   background-size: 40px;
   background-repeat: no-repeat;
@@ -42,7 +42,7 @@ header {
   background-color: #ccc;
   }
 
-.hamburger_menu.is-active {
+.hamburger_menu .is-active {
   background-image: url(img/close.svg);
 }
 
