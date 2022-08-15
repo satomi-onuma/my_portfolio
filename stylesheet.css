@@ -83,8 +83,8 @@ header {
   cursor: pointer;
 }
 
-.hamburger_menu {
-  grid-column:3;
+.nav-drawer {
+  display: none;
 }
 
 .pc{
