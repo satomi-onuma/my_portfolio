@@ -83,7 +83,7 @@ header {
   cursor: pointer;
 }
 
-.nav-drawer {
+#nav-drawer {
   display: none;
 }
 
