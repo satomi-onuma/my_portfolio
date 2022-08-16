@@ -15,8 +15,10 @@ header {
   display: none;
   } 
 
- .header-icon {
-   grid-column:1 / 2;
+.header-icon {
+  grid-column:1 / 2;
+  width:20%;
+  }
   
 .header-logo img{
   width: 70% ;
