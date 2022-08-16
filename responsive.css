@@ -30,6 +30,8 @@ header {
   grid-column: 2 / 3;
   position:relative;
   grid-row: 1;
+  padding-top:25px;
+  margin-left:55px;
 }
 
 .nav-unshown {
