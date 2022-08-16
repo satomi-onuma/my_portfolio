@@ -17,8 +17,11 @@ header {
 
 .header-icon {
   grid-column:1 / 2;
-  width:20%;
   }
+  
+.header-icon img {
+    width:20%;
+    }
   
 .header-logo img{
   width: 70% ;
