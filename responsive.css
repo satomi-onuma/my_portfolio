@@ -29,6 +29,7 @@ header {
   display:block;
   grid-column: 2 / 3;
   position:relative;
+  grid-row: 1;
 }
 
 .nav-unshown {
@@ -76,12 +77,12 @@ header {
   overflow: auto;
   position: fixed;
   top: 0;
-  left: 0;
+  right: 0;
   z-index: 9999;
   width: 90%;
   max-width: 330px;
-  height: 50%;
-  background: #000080;
+  height: 100%;
+  background: #f2f2f2;
   transition: .3s ease-in-out;
   -webkit-transform: translateX(-105%);
   transform: translateX(-105%);
