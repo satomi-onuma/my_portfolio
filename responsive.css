@@ -20,7 +20,9 @@ header {
   }
   
 .header-icon img {
-    width:20%;
+    width:50%;
+    padding-top:25px;
+    margin-left:50px;
     }
   
 .header-logo img{
