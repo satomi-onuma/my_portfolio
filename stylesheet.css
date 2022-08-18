@@ -146,10 +146,11 @@ header {
 
 .name_blow {
     color: #0B2F50;
-    font-size: 14px;
+    font-size: 13px;
     font-family: zen-kaku-gothic-antique, sans-serif;
     font-style: normal;
     font-weight: 300;
+    line-height:10px;
 }
 
 .works {
