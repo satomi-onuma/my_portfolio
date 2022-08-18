@@ -83,10 +83,6 @@ header {
   cursor: pointer;
 }
 
-#nav-drawer {
-  display: none;
-}
-
 .pc{
   padding-top : 180px;
   width: 55%;
@@ -150,7 +146,7 @@ header {
 
 .name_blow {
     color: #0B2F50;
-    font-size: 15px;
+    font-size: 14px;
     font-family: zen-kaku-gothic-antique, sans-serif;
     font-style: normal;
     font-weight: 300;
