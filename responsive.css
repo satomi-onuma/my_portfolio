@@ -82,11 +82,12 @@ main img {
 
 .name {
   font-size: 25px;
-  margin-top:20px;
+  margin-top:15px;
+  margin-bottom:5px;
 }
 
 .name_blow {
-  font-size:13px;
+  font-size:12px;
   margin: 0 30px;
 }
 
